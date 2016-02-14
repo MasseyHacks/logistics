@@ -1,0 +1,28 @@
+# Snacks
+- People Attending: 140
+- People Planned For: 220
+- Snack budget: $0.30 per snack
+- Fruit budget: $0.75 in total
+
+
+###Morning Snacks
+  - Possibilities:
+    - Nature Valey Granola:
+      - Cost (Based on Amazon.ca): $13 - $.202/Person
+      - Amount: 64/pack 
+      - Total Cost (256 Bars): $52
+    - Kirkland Soft and Chewey:
+      - Cost (Based on Amazon.ca): $.38/Person
+      - Amount: 60/pack
+      
+      
+###Evening Snacks (3:00 PM)
+
+###Fruits
+  - Clementines
+  
+  
+###Drinks
+  - Water
+  - Juice?
+  - I'd like to go with no pop if possible
