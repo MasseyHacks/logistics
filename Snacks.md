@@ -16,8 +16,11 @@
       - Amount: 60/pack
       
       
-###Evening Snacks (3:00 PM)
-
+###Afternoon Snacks (3:00 PM)
+  - Tim Hortons (Deal given to me (Diana)by Shama)
+    - Donuts (8.99 per dozen) x 22 which comes to 197.78
+    - 10 dozens of Donuts + 6 x 50 timbits x 10% off discount comes to $130.00
+    - We could make counter offers since we only relaly need just one donut per student for the afternoon snack
 ###Fruits
   - Clementines
   
