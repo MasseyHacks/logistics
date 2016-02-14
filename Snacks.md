@@ -8,8 +8,8 @@
 ###Morning Snacks
   - Possibilities:
     - Nature Valey Granola:
-      - Cost (Based on Amazon.ca): $11.5 - $.202/Person
-      - Amount: 64/pack 
+      - Cost (Based on Amazon.ca): $11.5 - $.17/Person
+      - Amount: 68/pack 
       - Total Cost (256 Bars): $52
     - Kirkland Soft and Chewey:
       - Cost: $.15/Person
