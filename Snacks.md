@@ -28,6 +28,6 @@
   
   
 ###Drinks
-  - Water 2.99 for 40 bottles of kirkland water ($24 for 320
+  - Water 2.99 for 40 bottles of kirkland water ($24 for 320)
   - Juice?
   - I'd like to go with no pop if possible
