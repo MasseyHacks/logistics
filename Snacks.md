@@ -4,8 +4,32 @@
 - Snack budget: $0.30 per snack
 - Fruit budget: $0.75 in total
 
+###Morning Snack
+- Kirkland Soft and Chewy:
+  - Cost: 8.99 x 1.13 = 10.16
+  - 60/pack x 4 = 50.8
 
-###Morning Snacks
+
+###Fruit #1 (2:00PM)
+- Clementines/Apples
+
+###Afternoon Snack (3:00PM)
+- Costco 
+  - $4 per 6 muffins (which serves 12 people)
+  - 12 packs = $48 x 1.13 = $54.24
+  
+###Fruit #2 (4:00PM)
+- Bananas
+  - 7 for $2
+  - 28 packs = $56
+
+###Water
+  - $3.19 per 40 bottles
+  - 5 bottles x participant
+
+
+
+####Morning Snacks
   - Possibilities:
     - Nature Valey Granola:
       - Cost (Based on Amazon.ca): $13 - $.202/Person
@@ -16,16 +40,16 @@
       - Amount: 60/pack
       
       
-###Afternoon Snacks (3:00 PM)
+####Afternoon Snacks (3:00 PM)
   - Tim Hortons (Deal given to me (Diana)by Shama)
     - Donuts (8.99 per dozen) x 22 which comes to 197.78
     - 10 dozens of Donuts + 6 x 50 timbits x 10% off discount comes to $130.00
     - We could make counter offers since we only relaly need just one donut per student for the afternoon snack
-###Fruits
+####Fruits
   - Clementines
   
   
-###Drinks
+####Drinks
   - Water
   - Juice?
   - I'd like to go with no pop if possible
