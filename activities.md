@@ -15,28 +15,25 @@ All the fun that's not related to the main competition.
     - Notpr0n ideas
     - Hide things in the source
   - Hosted on Rikin's server (ask him)
+  - **Small Prize Required**
 - Twitter contests
   - Take a picture with different things throughout the day,
     post it on Twitter with a hashtag, and get entered into a raffle
+  - **Small Prize Required**
     
 ## Events
 - Blind coding
   - Complete simple coding challenges by dictating the code without seeing it
+  - **Mini Prize Required**
 - Cup stacking
   - We need a lot of cups
+  - **Mini Prize Required**
 - One hour game challenge
-  - Make a game from scratch in an hour
+  - Make a game from scratch in an hour (might be a little hard especially for beginners, good idea for MH2)
 - Coding challenges
   - Make a program that runs for exactly 30 seconds without using a time library
   - Code golf
 - HackerRank style problems
   - Bronze, Silver, Gold, Platinum levels
   - Could be left up all day, or spaced out intermittently
-
-
-
-
-
-
-
-  
+  - https://www.hackerrank.com/administration/contests/create use this to create contests. HackerRank offered for us to use some of their problems if we want
