@@ -19,20 +19,12 @@ All the fun that's not related to the main competition.
 - Twitter contests
   - Take a picture with different things throughout the day,
     post it on Twitter with a hashtag, and get entered into a raffle
-  - **Small Prize Required**
+  - **2 Small Prizes Required**
     
 ## Events
 - Blind coding
   - Complete simple coding challenges by dictating the code without seeing it
-  - **Mini Prize Required**
-- Cup stacking
-  - We need a lot of cups
-  - **Mini Prize Required**
-- One hour game challenge
-  - Make a game from scratch in an hour (might be a little hard especially for beginners, good idea for MH2)
-- Coding challenges
-  - Make a program that runs for exactly 30 seconds without using a time library
-  - Code golf
+  - **3+ Mini Prizes Required**
 - HackerRank style problems
   - Bronze, Silver, Gold, Platinum levels
   - Could be left up all day, or spaced out intermittently
