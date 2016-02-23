@@ -1,8 +1,8 @@
 # Snacks
 - People Attending: 140
-- People Planned For: 220
+- People Planned For: 200
 - Snack budget: $0.30 per snack
-- Fruit budget: $0.75 in total
+- Fruit budget: $0.6 in total (for 180 people)
 
 ###Morning Snack
 - Kirkland Soft and Chewy:
@@ -14,9 +14,7 @@
 - Clementines/Apples
 
 ###Afternoon Snack (3:00PM)
-- Costco 
-  - $4 per 6 muffins (which serves 12 people)
-  - 12 packs = $48 x 1.13 = $54.24
+- Cakes by Tristhal's mom
   
 ###Fruit #2 (4:00PM)
 - Bananas
