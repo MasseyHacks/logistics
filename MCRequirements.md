@@ -12,4 +12,4 @@
 - Thank sponsors
 - Thank your fellow organizers
 - Thank the teachers
-- 
+- Mention MH2
