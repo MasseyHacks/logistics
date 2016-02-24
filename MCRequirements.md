@@ -13,3 +13,8 @@
 - Thank your fellow organizers
 - Thank the teachers
 - Mention MH2
+- 
+
+
+
+- introduce the judges somewhere
