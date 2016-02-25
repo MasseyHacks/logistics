@@ -4,6 +4,13 @@
 - Talk about sponsors
   - quick overview for TERA sponsors
   - mention names of GIGA and MEGA sponsors
+- Run through the event
+  - go through how workshops work (MUST download software first)
+  - activities
+  - activities throughout the day (coding challenge, Twitter challenge, hackenger hunt)
+  - how to request mentors and what mentors are
+- IF software download (ex. Android studio), LET US KNOW
+- If slack doesn't work, LET US KNOW
 
 ###Closing Ceremony
 - Talk about HackClub (this could be moved to Opening)
