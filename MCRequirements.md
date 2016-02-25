@@ -11,6 +11,9 @@
   - how to request mentors and what mentors are
 - IF software download (ex. Android studio), LET US KNOW
 - If slack doesn't work, LET US KNOW
+  - quickly go over what slack is
+- introduce the judges somewhere
+  - Dave Hallahan
 
 ###Closing Ceremony
 - Talk about HackClub (this could be moved to Opening)
@@ -19,9 +22,10 @@
 - Thank sponsors
 - Thank your fellow organizers
 - Thank the teachers
-- Mention MH2
 - 
 
+- Mention MH2
 
 
-- introduce the judges somewhere
+
+
