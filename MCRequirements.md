@@ -1,6 +1,11 @@
 ###Opening Cermeony
 - Welcome participants
 - go over what hackathons are
+  - you can create ANYTHING that you want
+  - you have access to mentors at any time
+  - attend workshop  
+  - preferably pick a stream
+
 - Talk about sponsors
   - quick overview for TERA sponsors
   - mention names of GIGA and MEGA sponsors
