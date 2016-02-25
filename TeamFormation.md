@@ -1,0 +1,6 @@
+- INTRO
+  - name
+  - school
+  - grade
+  - idea/interest
+- 1-2 ice breakers
