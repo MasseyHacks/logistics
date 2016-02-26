@@ -1,2 +1,2 @@
-- Anna or Catherine, lead mentors/sponsors to room 143 to dump anything they have in the room.
+- Anna or Catherine, lead mentors/sponsors to room 143 to dump anything they have in the room, then guide them to the Opening Ceremony
 - all none participants will have to wear some sort of a name tag
