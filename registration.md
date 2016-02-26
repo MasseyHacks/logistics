@@ -1,2 +1,3 @@
 - Anna or Catherine, lead mentors/sponsors to room 143 to dump anything they have in the room, then guide them to the Opening Ceremony
 - all none participants will have to wear some sort of a name tag
+- if someone doesn't have some sort of an ID or isn't registered and woult NOT leave, text/call me (and I'll get one of the teachers) or grab a teacher directly. We don't want to be welcoming random people into the venue.
