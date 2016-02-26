@@ -31,7 +31,9 @@
 - schedule
   - after the opening ceremony, team formation starts at 9:30AM
   - you'll be updated about special events through slack & organizers/volunteers walking around
-
+- prizes
+  - let me know if you don't know what they are lmao
+  - say taht the particle photons were possible thanks to uwindsor cs
 ###Closing Ceremony
 - Talk about HackClub (this could be moved to Opening)
 - Thank participants
