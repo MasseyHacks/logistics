@@ -1,0 +1,2 @@
+- Anna or Catherine, lead mentors/sponsors to room 143 to dump anything they have in the room.
+- all none participants will have to wear some sort of a name tag
