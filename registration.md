@@ -2,3 +2,4 @@
 - all none participants will have to wear some sort of a name tag
 - if someone doesn't have some sort of an ID or isn't registered and woult NOT leave, text/call me (and I'll get one of the teachers) or grab a teacher directly. We don't want to be welcoming random people into the venue.
 - shoudl we have someone cover the front rotunda at all times??? how do we avoid getting random people into the venue??????
+- pick up name tags from 149 if you get there early, if not, i'm moving everything to 143 probably around 8:00AM
