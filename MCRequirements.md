@@ -10,6 +10,9 @@
   - can i work around (yes pls don't sit all day)
   - what can i build (anything)
   - try to think of more questions (That may seem obvious to you)
+- why workshops?
+  - think of workshops as a guided start, it gives you an idea of what you can do
+  - the rest of the day is up to you and your imagination, we'VE GOT MENTORS TO HELP YOU IN EVERY POSSIBLE WAY
   
 - Talk about sponsors
   - quick overview for TERA sponsors
