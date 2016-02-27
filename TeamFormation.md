@@ -1,3 +1,8 @@
+- Group people into small groups and get them to do their INTROs and crazy idea pitches
+- Mentors like Jon will walk around and engage in the conversation
+- Plant a mentor per group
+- Announce every 3-5 minutes to remind them to talk to everyone else
+
 - INTRO
   - name
   - school
@@ -11,7 +16,3 @@
     - Chrome extention that replaces Facebook emotions with Trump's faces [link] (https://www.producthunt.com/tech/trump-reactions)
   - Games with a Twist
     - Text based Tetris
-
-
-- do intro and pitch together if large group
-- if not, they can be split
