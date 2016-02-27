@@ -3,9 +3,8 @@
   - school
   - grade
   - idea/interest
-- 1-2 ice breakers
-- Inspiration Ideas
-  - Troll
+- Pitch your craziest idea
+   -- Troll
     - TrumpScript
     - Chrome extention that replaces Facebook emotions with Trump's faces [link] (https://www.producthunt.com/tech/trump-reactions)
   - Games with a Twist
