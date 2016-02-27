@@ -34,6 +34,7 @@
 - prizes
   - let me know if you don't know what they are lmao
   - say taht the particle photons were possible thanks to uwindsor cs
+
 ###Closing Ceremony
 - Talk about HackClub (this could be moved to Opening)
 - Thank participants
