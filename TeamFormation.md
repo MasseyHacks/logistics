@@ -3,6 +3,8 @@
   - school
   - grade
   - idea/interest
+  - What you could bring to your group
+     - certain programming skill, design, project management, or just a heart to learn?
 - Pitch your craziest idea
    -- Troll
     - TrumpScript
